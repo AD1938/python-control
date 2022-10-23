@@ -1,3 +1,4 @@
+# keep your computer active while WFH
 import pyautogui
 import time
 pyautogui.FAILSAFE = False

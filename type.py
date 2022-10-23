@@ -1,3 +1,4 @@
+# achieve 600+ WPM on MonkeyType
 import pyautogui
 pyautogui.moveTo(1000,200)
 pyautogui.click()
